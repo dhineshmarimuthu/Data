@@ -1,2 +1,2 @@
 # Data
-Its a data analysis repository 
+Its a data science repository 
